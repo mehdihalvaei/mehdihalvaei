@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Mehdi  
 
 🚀 Passionate learner on my journey to becoming a skilled **software developer**.  
-💻 Currently exploring **programming, web development, and open-source projects**.  
+💻 Exploring **programming, web development, and open-source projects**.  
 🌱 Always curious and eager to learn something new every day.  
 
 ---
@@ -15,6 +15,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 🏆 Projects
+Here are some projects I'm working on or have completed:
+
+1. **[Todo App](https://github.com/mehdihalvaei/todo-app)** – A simple web app to manage tasks, built with Django & JavaScript.  
+2. **[Weather App](https://github.com/mehdihalvaei/weather-app)** – Fetches weather data using API, built with Python & HTML/CSS.  
+3. **[Portfolio Website](https://github.com/mehdihalvaei/portfolio)** – My personal website showcasing projects and skills, built with HTML, CSS & JS.
 
 ---
 
